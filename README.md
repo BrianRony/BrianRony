@@ -1,6 +1,5 @@
 # Hi 👋, I'm Brian Kiprono Ngetich
 
-![Cat](cat.webp)
 
 🌟 **Welcome to my corner of the coding universe!** 🌟
 
